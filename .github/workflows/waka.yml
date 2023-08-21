@@ -18,3 +18,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
+          SYMBOL_VERSION: "3"
