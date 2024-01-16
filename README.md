@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2027%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -65,5 +65,5 @@ HTML                     1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 15/01/2024 01:13:43 UTC
+ Last Updated on 16/01/2024 01:11:19 UTC
 <!--END_SECTION:waka-->
