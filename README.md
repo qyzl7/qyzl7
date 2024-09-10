@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2018%20mins-blue)
+
 **I Mostly Code in Python** 
 
 ```text
@@ -24,5 +26,5 @@ CSS                      1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 09/09/2024 01:24:51 UTC
+ Last Updated on 10/09/2024 01:23:44 UTC
 <!--END_SECTION:waka-->
