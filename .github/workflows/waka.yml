@@ -25,3 +25,4 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
           SYMBOL_VERSION: "1"
+          CODE_BLOCK_LANGUAGE: "Python"
