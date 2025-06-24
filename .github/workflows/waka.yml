@@ -24,4 +24,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
-          SYMBOL_VERSION: "2"
+          SYMBOL_VERSION: "1"
