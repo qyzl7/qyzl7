@@ -21,43 +21,43 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 40 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.70 % 
-Python                   5 hrs 6 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.31 % 
-Other                    1 hr 26 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.53 % 
-Text                     11 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.35 % 
-C++                      10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.22 % 
+Markdown                 6 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.39 % 
+Python                   3 hrs 46 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.30 % 
+Other                    51 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.56 % 
+Text                     11 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.64 % 
+C++                      10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.47 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 35 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.75 % 
-VS Code                  3 hrs 11 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.34 % 
-Obsidian                 1 hr 54 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.91 % 
+Codex Vscode             8 hrs 35 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   75.80 % 
+VS Code                  1 hr 25 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.57 % 
+Obsidian                 1 hr 19 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.63 % 
 
 💻 Operating System: 
-Windows                  10 hrs 34 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   77.20 % 
-WSL                      3 hrs 7 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.80 % 
+Windows                  9 hrs 59 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   88.10 % 
+WSL                      1 hr 20 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 34 mins (77.2%)
+⏱ AI Coding Time: 9 hrs 59 mins (88.1%)
 
-✍️ 9,370 lines written by AI, 1,226 lines written by hand (88.43% AI-written)
+✍️ 9,370 lines written by AI, 453 lines written by hand (95.39% AI-written)
 
-🔤 8,979,067 Input Tokens, 739,436 Output Tokens
+🔤 8,557,868 Input Tokens, 737,869 Output Tokens
 
 💵 $76.37 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 161 AI Prompts
+🧠 26 AI Sessions, 153 AI Prompts
 
 GPT                      9,254 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.64 % 
 Codex-Vscode             224 lines           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.43% of written lines came from AI
-📚 Verbose Prompter — average 11,743 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.36% of changed lines were hand-edited
+🤖 AI-Driven — 95.39% of written lines came from AI
+📚 Verbose Prompter — average 10,263 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.55% of changed lines were hand-edited
 ```
 
 
